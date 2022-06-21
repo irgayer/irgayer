@@ -1,6 +1,6 @@
 <div style="background-color:#121212">
 <div style="color:#fff">
-# Hi ,I Am Yerbol Irgaliyev! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+<h1>Hi, I am Yerbol Irgaliyev! 👋</h1>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=irgayer&color=blue)<br>
