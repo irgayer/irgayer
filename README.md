@@ -1,16 +1,37 @@
-### Hi there 👋
+<div style="background-color:#121212">
+<div style="color:#fff">
+# Hi ,I Am Yerbol Irgaliyev! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+<br>
 
-<!--
-**irgayer/irgayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=irgayer&color=blue)<br>
 
-Here are some ideas to get you started:
+### An enthusiastic programmer striving for everything new and high professional standards.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🏭 I’m currently pursuing **Software Engineering - Astana IT University.** <br>
+- 🏫 I’m currently learning **Clean architecture & ASP .NET Core.** <br>
+- 🙌 I’m looking to collaborate on **Web development.** <br>
+- 🤔 I’m looking for help with **Problem solving & best practices.**<br>
+- 🥅 2022 Goals: **Participate in projects & find partners.** <br>
+
+
+### 🕵 Take a look at my repositories and let's get in touch!<br>
+
+
+### 📈 Github Stats:
+
+
+<br>
+<a href="https://github.com/irgayer">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=irgayer&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true">
+</a>
+<br><br>
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=irgayer&layout=compact&theme=vision-friendly-dark" />
+</a>
+<br>
+<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irgayer&theme=dark)](https://git.io/streak-stats)
+
+</div>
+</div>
